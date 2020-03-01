@@ -21,9 +21,9 @@ Provides an overview of the average tumor size and growth over time in the mice 
 Bar plots used to show the total number of data points for each Treatment tested. "Data Points" refers to each mouse at each timepoint tested. *Data summarized in this report are for mice that had data recorded at every timepoint*.
 ## [/Images](Images)
 Collection of plots created in [Pymaceuticals.ipynb](Pymaceuticals.ipynb) saved in .png format for quick reference.
-* [pandas_barplot](Images/matplotlib_barplot.png)
+* [pandas_barplot](Images/pandas_barplot.png)
 Bar plot showing the number of data points per treatment regimen tested created using Pandas.
-* [matplotlib_barplot](matplotlib_barplot.png)
+* [matplotlib_barplot](Images/matplotlib_barplot.png)
 Bar plot showing the number of data points per treatment regimen tested created using Matplotlib.
 ## Built With
 * Jupyter Notebook
