@@ -23,11 +23,18 @@ Bar plots used to show the total number of data points for each Treatment tested
 Pie charts used to show the distribution of mice per sex in the study. 
 ## [/Images](Images)
 Collection of plots created in [Pymaceuticals.ipynb](Pymaceuticals.ipynb) saved in .png format for quick reference.
-* [pandas_barplot](Images/barplot_pandas.png)
-Bar plot showing the number of data points per treatment regimen tested created using Pandas.
-* [matplotlib_barplot](Images/barplot_matplotlib.png)
-Bar plot showing the number of data points per treatment regimen tested created using Matplotlib.
-* [
+* [/Barplots](Images/Barplots)
+Bar plots showing the number of data points per treatment regimen tested.
+  * [Pandas Barplot](Images/Barplots/barplot_pandas.png)
+ Bar Plot created using Pandas.
+  * [Matplotlib Barplot](Images/Barplots/barplot_matplotlib.png)
+Bar plot created using Matplotlib.
+* [/Piecharts](Images/Piecharts)
+Pie charts showing the distribution of sexes among the test mice.
+  * [Pandas Piechart](Images/Piecharts/piechart_pandas.png)
+  Pie chart created using Pandas.
+  * [Matplotlib Piechart](Images/Piecharts/piechart_matplotlib.png)
+  Pie chart created using matplotlib.
 ## Built With
 * Jupyter Notebook
 * Python
