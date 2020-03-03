@@ -28,6 +28,9 @@ Box plots used to show the four best performing drug regimens based on the avera
 * Ceftamin
 * Infubinol
 * Ramicane
+### Line and Scatter Plots
+Line plot shows the change in average tumor volume in cubic milimeters over 45 days in mice under the Capomulin regimen.
+Scatter plot shows the relationship between mouse weight in grams and their tumor volume in cubic milimeters.
 ## [/Images](Images)
 Collection of plots created in [Pymaceuticals.ipynb](Pymaceuticals.ipynb) saved in .png format for quick reference.
 * [/Barplots](Images/Barplots)
@@ -48,6 +51,13 @@ Box plots showing the distribution of final tumor sizes by drug regimen. *Only t
   Shows the distribution of tumor sizes for all mice in the four best drug regimens.
   * [Distribution by Drug Regimens](Images/Boxplots/tumor_volume_by_regimen.png)
   Shows the distribution of tumor sizes for the mice in each drug regimen within the four best testing regimens.
+* [/Line_Scatterplots](Images/Line_Scatterplots)
+Line plot shows the change in average tumor volume in cubic milimeters over 45 days in mice under the Capomulin regimen.
+Scatter plot shows the relationship between mouse weight in grams and their tumor volume in cubic milimeters.  
+  * [Tumor Volume over time](Images/Line_Scatterplots/Capomulin_Tumor_overtime.png)
+  Line plot showing the change in average tumor volume in cubic milimeter over the 45 days the study was done in mice under the Capomulin regimen.
+  * [Mouse weight vs. Tumor Size](Images/Line_Scatterplots/weightvstumor.png)
+  Scatter plot showing the relationship between mouse weight in grams and their tumor size in cubic milimeters. Regression line is plotted alongside the data.  
 ## Built With
 * Jupyter Notebook
 * Python
