@@ -42,8 +42,8 @@ Pie charts showing the distribution of sexes among the test mice.
   Pie chart created using Pandas.
   * [Matplotlib Piechart](Images/Piecharts/piechart_matplotlib.png)
   Pie chart created using matplotlib.
- * [/Boxplots](Images/Boxplots)
- Box plots showing the distribution of final tumor sizes by drug regimen. *Only the four best testing drug regimens are shown*
+* [/Boxplots](Images/Boxplots)
+Box plots showing the distribution of final tumor sizes by drug regimen. *Only the four best testing drug regimens are shown*
   * [Distribution of all mice](Images/Boxplots/all_mice_boxplot.png)
   Shows the distribution of tumor sizes for all mice in the four best drug regimens.
   * [Distribution by Drug Regimens](Images/Boxplots/tumor_volume_by_regimen.png)
