@@ -4,6 +4,8 @@
 
 ## [Pymaceuticals.ipynb](Pymaceuticals.ipynb)
 Provides a statistical overview of the data collected on a series of tests performed by Pymaceuticals Inc. to determine the effectiveness of Capomulin in the treatment of Squamous Cell Carcinoma (SCC).
+### Conclusions
+Conclusions made about the data analysis performed by the folowing code.
 ### Summary Statistics
 Provides an overview of the average tumor size and growth over time in the mice that survived testing for each of the SCC treatments tested. 
 #### Treatments Tested
